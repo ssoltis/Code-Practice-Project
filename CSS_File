@@ -3,6 +3,6 @@ div{
     overflow: auto;
     width:100%;}
       body{
-    color: #555555
+    color: #777777
     background-color:#f8f8f8;
     text-align: left}
